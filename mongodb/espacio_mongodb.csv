@@ -1,0 +1,9 @@
+metric,value
+tamano_total_mb,391.39
+usuarios,500000
+productos,25000
+pedidos,1500612
+items_pedidos,7501741
+kb_por_usuario,0.8
+tamano_indices_mb,21.47
+entidades_por_mb,5175.4

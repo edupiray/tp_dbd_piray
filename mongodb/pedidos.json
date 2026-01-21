@@ -1,0 +1,24 @@
+pedidos (colección)
+{
+  "_id": ObjectId("..."),
+  "pedido_id": 1,
+  "fecha": ISODate("2024-01-15T10:30:00Z"),
+  "estado": "completado",
+  "total": 150.75,
+  "usuario": {  // Datos básicos del usuario (sin pedidos)
+    "usuario_id": 1,
+    "nombre": "Juan Pérez",
+    "email": "juan@example.com",
+    "pais": "Argentina"
+  },
+  "items": [
+    {
+      "producto_id": 100,
+      "nombre": "Laptop Gaming",  // Datos básicos del producto
+      "categoria": "Electrónicos",
+      "precio_unitario": 1200.00,
+      "cantidad": 1,
+      "subtotal": 1200.00
+    }
+  ]
+}
