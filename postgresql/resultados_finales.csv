@@ -1,0 +1,9 @@
+query,iterations,min,max,avg,median,std_dev
+Q1_Inserción_Simple,10,0.2217,2.1326,0.4285,0.2334,0.599
+Q2_Búsqueda_Por_ID,10,0.87,8.0868,1.6177,0.8925,2.2732
+Q3_Filtro_y_Agregación,10,0.7231,2.5417,0.9338,0.7541,0.5655
+Q4_JOIN_Simple,10,2.4102,12.8216,3.4799,2.4528,3.2824
+Q5_Agregación_Compleja,10,2.8896,5.0019,3.1492,2.9477,0.6519
+Q6_Actualización_Masiva,10,0.847,1.8388,0.9721,0.8739,0.3053
+Q7_Consulta_Compleja,10,1.0328,11.6092,3.3093,3.2172,3.0761
+Q8_Eliminación,10,0.4863,3.6847,0.8649,0.5537,0.9924
